@@ -1,4 +1,4 @@
-# Routingexample
+# Routingexample - Demonstrates the use of RouterOutlet angula directive for a SPA.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
 
